@@ -1,5 +1,5 @@
 streamlit
-PyMuPDF
+PyMuPDF==1.28.2
 sentence-transformers
 faiss-cpu
 google-genai
